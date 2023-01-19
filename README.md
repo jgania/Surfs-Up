@@ -5,8 +5,8 @@ This code is using the SQLAlchemy library to connect to a SQLite database and re
 
 ## Results:
 
-![December Statistics](.\Starter_Code\December Statistics.png)
-![June Statistics](.\Starter_Code\June Statistics.png)
+![December](Starter_Code\December Statistics.png)
+![June](Starter_Code\June Statistics.png)
 
 ## Summary:
 * The mean temperature is warmer in the summer month of June by almost 3 degrees. Surprisingly the December mean temp is still 71 degrees. This would indicate that in both December and June the temperatures are stable enough to have a successful sruf and icecream shop.
