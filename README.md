@@ -4,6 +4,9 @@
 This code is using the SQLAlchemy library to connect to a SQLite database and retrieve temperature data for the months of June and December. It's using the extract function to filter the data by month and then converting the results to lists and creating DataFrames with the temperature data. Finally, it's calculating and printing out summary statistics for the temperature data in each DataFrame. The purpose of the assignment is to analyse temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results:
+
+https://github.com/jgania/Surfs-Up/blob/master/[Starter_Code/December Statistics.png
+
 !(C:\Users\jorda\DU Analysis Program\SQLAlchemy\Surfs-Up\Starter_Code\December Statistics.png)
 !(C:\Users\jorda\DU Analysis Program\SQLAlchemy\Surfs-Up\Starter_Code\June Statistics.png)
 
