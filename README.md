@@ -5,7 +5,8 @@ This code is using the SQLAlchemy library to connect to a SQLite database and re
 
 ## Results:
 
-https://github.com/jgania/Surfs-Up/blob/master/[Starter_Code/December_Statistics.png
+![December Statistics](Starter_Code\December Statistics.png)
+![June Statistics](Starter_Code\June Statistics.png)
 
 !(C:\Users\jorda\DU Analysis Program\SQLAlchemy\Surfs-Up\Starter_Code\December Statistics.png)
 !(C:\Users\jorda\DU Analysis Program\SQLAlchemy\Surfs-Up\Starter_Code\June Statistics.png)
